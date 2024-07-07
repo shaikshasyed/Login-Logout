@@ -1,0 +1,12 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-found-image {
+  width: 400px;
+  height: 300px;
+}
